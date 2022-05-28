@@ -1,0 +1,18 @@
+{
+    "identifier": "human_snpc-62893828eb37c8.81427817",
+    "version": "3.0.1",
+    "type": "human_snpc",
+    "nametag": "staff",
+    "world": "world",
+    "enableRotate": true,
+    "showNametag": true,
+    "scale": 1,
+    "commands": [],
+    "position": [
+        93.3478,
+        67,
+        314.4411,
+        65.80610656738281,
+        35.521759033203125
+    ]
+}

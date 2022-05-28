@@ -1,0 +1,18 @@
+{
+    "identifier": "human_snpc-6289b7847f8a43.88289045",
+    "version": "3.0.1",
+    "type": "human_snpc",
+    "nametag": "Reception",
+    "world": "world",
+    "enableRotate": true,
+    "showNametag": true,
+    "scale": 1,
+    "commands": [],
+    "position": [
+        73.8099,
+        64,
+        302.2759,
+        278.59093475341797,
+        10.259567260742188
+    ]
+}

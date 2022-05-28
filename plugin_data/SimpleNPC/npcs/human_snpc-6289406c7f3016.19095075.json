@@ -1,0 +1,18 @@
+{
+    "identifier": "human_snpc-6289406c7f3016.19095075",
+    "version": "3.0.1",
+    "type": "human_snpc",
+    "nametag": "Guard",
+    "world": "world",
+    "enableRotate": true,
+    "showNametag": true,
+    "scale": 1,
+    "commands": [],
+    "position": [
+        85.58,
+        69.0625,
+        290.9362,
+        111.11138916015625,
+        33.74610900878906
+    ]
+}

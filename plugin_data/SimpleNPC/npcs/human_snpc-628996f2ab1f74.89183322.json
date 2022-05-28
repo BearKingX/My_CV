@@ -1,0 +1,18 @@
+{
+    "identifier": "human_snpc-628996f2ab1f74.89183322",
+    "version": "3.0.1",
+    "type": "human_snpc",
+    "nametag": "hanat",
+    "world": "world",
+    "enableRotate": true,
+    "showNametag": true,
+    "scale": 1,
+    "commands": [],
+    "position": [
+        115.6516,
+        155,
+        237.397,
+        318.9498291015625,
+        30.978271484375
+    ]
+}

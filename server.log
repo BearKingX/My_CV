@@ -1,0 +1,764 @@
+2022-05-21 [10:22:06.395] [Server thread/INFO]: Loading server configuration
+2022-05-21 [10:22:06.488] [Server thread/INFO]: Selected English (eng) as the base language
+2022-05-21 [10:22:06.498] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.30
+2022-05-21 [10:22:06.506] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2022-05-21 [10:22:06.548] [Server thread/INFO]: This server is running PocketMine-MP version 4.3.3
+2022-05-21 [10:22:06.548] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2022-05-21 [10:22:07.153] [Server thread/INFO]: Loading resource packs...
+2022-05-21 [10:22:07.240] [Server thread/INFO]: Preparing world "world"
+2022-05-21 [10:22:07.301] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2022-05-21 [10:22:07.398] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2022-05-21 [10:22:07.398] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2022-05-21 [10:22:07.429] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2022-05-21 [10:22:07.429] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2022-05-21 [10:22:07.431] [Server thread/INFO]: Default game type: Survival Mode
+2022-05-21 [10:22:07.432] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2022-05-21 [10:22:07.432] [Server thread/INFO]: Done (1.043s)! For help, type "help" or "?"
+2022-05-21 [10:22:08.491] [Server thread/INFO]: [World: world] Generating spawn terrain: 1 / 224 (0%)
+2022-05-21 [10:22:18.765] [Server thread/INFO]: [World: world] Generating spawn terrain: 23 / 224 (10%)
+2022-05-21 [10:22:20.356] [Server thread/INFO]: [World: world] Generating spawn terrain: 45 / 224 (20%)
+2022-05-21 [10:22:21.962] [Server thread/INFO]: [World: world] Generating spawn terrain: 68 / 224 (30%)
+2022-05-21 [10:22:23.179] [Server thread/INFO]: [World: world] Generating spawn terrain: 90 / 224 (40%)
+2022-05-21 [10:22:24.524] [Server thread/INFO]: [World: world] Generating spawn terrain: 112 / 224 (50%)
+2022-05-21 [10:22:25.013] [Server thread/INFO]: [World: world] Generating spawn terrain: 135 / 224 (60%)
+2022-05-21 [10:22:25.510] [Server thread/INFO]: [World: world] Generating spawn terrain: 157 / 224 (70%)
+2022-05-21 [10:22:26.174] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
+2022-05-21 [10:22:26.649] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
+2022-05-21 [10:22:27.157] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2022-05-21 [10:22:31.945] [Server thread/INFO]: Received signal interrupt, stopping the server
+2022-05-21 [10:22:31.956] [Server thread/INFO]: Unloading world "world"
+2022-05-21 [10:22:32.453] [Server thread/INFO]: Stopping other threads
+2022-05-21 [10:23:14.082] [Server thread/INFO]: Loading server configuration
+2022-05-21 [10:23:14.143] [Server thread/INFO]: Selected English (eng) as the base language
+2022-05-21 [10:23:14.151] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.30
+2022-05-21 [10:23:14.158] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2022-05-21 [10:23:14.199] [Server thread/INFO]: This server is running PocketMine-MP version 4.3.3
+2022-05-21 [10:23:14.199] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2022-05-21 [10:23:14.809] [Server thread/INFO]: Loading resource packs...
+2022-05-21 [10:23:15.144] [Server thread/INFO]: Preparing world "world"
+2022-05-21 [10:23:15.270] [Server thread/INFO]: Minecraft network interface running on 127.0.0.1:19132
+2022-05-21 [10:23:15.270] [Server thread/INFO]: GS4 Query listener running on 127.0.0.1:19132
+2022-05-21 [10:23:15.299] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2022-05-21 [10:23:15.299] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2022-05-21 [10:23:15.301] [Server thread/INFO]: Default game type: Creative Mode
+2022-05-21 [10:23:15.301] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2022-05-21 [10:23:15.301] [Server thread/INFO]: Done (1.222s)! For help, type "help" or "?"
+2022-05-21 [10:23:48.409] [Server thread/INFO]: [NetworkSession: 127.134.181.19 48857] Session opened
+2022-05-21 [10:23:48.475] [Server thread/INFO]: [NetworkSession: 127.134.181.19 48857] Player: VncenzoX
+2022-05-21 [10:23:49.183] [Server thread/INFO]: VncenzoX[/127.134.181.19:48857] logged in with entity id 1 at (world, 256, 67, 256)
+2022-05-21 [10:23:58.886] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [10:25:35.593] [Server thread/INFO]: [NetworkSession: 127.39.195.162 54957] Session opened
+2022-05-21 [10:25:35.890] [Server thread/INFO]: [NetworkSession: 127.39.195.162 54957] Player: HanaLily93
+2022-05-21 [10:25:36.713] [Server thread/INFO]: HanaLily93[/127.39.195.162:54957] logged in with entity id 2 at (world, 256, 67, 256)
+2022-05-21 [10:25:48.960] [Server thread/INFO]: HanaLily93 joined the game
+2022-05-21 [10:26:07.693] [Server thread/INFO]: [CONSOLE: Opped cenzoX]
+2022-05-21 [10:27:24.302] [Server thread/INFO]: [CONSOLE: Opped VncenzoX]
+2022-05-21 [10:28:12.986] [Server thread/INFO]: [VncenzoX: Teleported VncenzoX to HanaLily93]
+2022-05-21 [10:28:37.074] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [10:28:37.083] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [10:29:41.856] [Server thread/INFO]: HanaLily93 left the game
+2022-05-21 [10:29:41.868] [Server thread/INFO]: [NetworkSession: HanaLily93] Session closed due to client disconnect
+2022-05-21 [10:30:07.754] [Server thread/INFO]: [NetworkSession: 127.39.195.162 54957] Session opened
+2022-05-21 [10:30:08.007] [Server thread/INFO]: [NetworkSession: 127.39.195.162 54957] Player: HanaLily93
+2022-05-21 [10:30:08.815] [Server thread/INFO]: HanaLily93[/127.39.195.162:54957] logged in with entity id 3 at (world, 145.0934, 68.656, 305.9528)
+2022-05-21 [10:30:20.847] [Server thread/INFO]: HanaLily93 joined the game
+2022-05-21 [10:30:52.017] [Server thread/INFO]: [NetworkSession: 127.134.181.19 54579] Session opened
+2022-05-21 [10:30:52.090] [Server thread/INFO]: [NetworkSession: 127.134.181.19 54579] Player: VncenzoX
+2022-05-21 [10:30:52.774] [Server thread/INFO]: VncenzoX[/127.134.181.19:54579] logged in with entity id 4 at (world, 135.1305, 68.657, 308.3701)
+2022-05-21 [10:31:02.261] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [10:31:35.990] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47748] Session opened
+2022-05-21 [10:31:36.335] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47748] Player: Eclairyu3342
+2022-05-21 [10:31:37.231] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:47748] logged in with entity id 5 at (world, 256, 67, 256)
+2022-05-21 [10:31:46.028] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [10:31:59.870] [Server thread/INFO]: [VncenzoX: Teleported Eclairyu3342 to VncenzoX]
+2022-05-21 [10:32:43.778] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [10:32:43.785] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-21 [10:32:55.210] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [10:32:55.219] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [10:33:03.248] [Server thread/INFO]: HanaLily93 left the game
+2022-05-21 [10:33:03.260] [Server thread/INFO]: [NetworkSession: HanaLily93] Session closed due to client disconnect
+2022-05-21 [10:33:37.416] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51290] Session opened
+2022-05-21 [10:33:37.552] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51290] Player: VncenzoX
+2022-05-21 [10:33:38.347] [Server thread/INFO]: VncenzoX[/127.134.181.19:51290] logged in with entity id 8 at (world, 137.7642, 70.6996, 303.2228)
+2022-05-21 [10:33:47.997] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [10:34:08.359] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47785] Session opened
+2022-05-21 [10:34:08.624] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47785] Player: Eclairyu3342
+2022-05-21 [10:34:09.399] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:47785] logged in with entity id 9 at (world, 141.4465, 64, 299.0403)
+2022-05-21 [10:34:12.278] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [10:34:12.285] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [10:34:18.261] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [10:35:43.487] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51297] Session opened
+2022-05-21 [10:35:43.572] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51297] Player: VncenzoX
+2022-05-21 [10:35:44.264] [Server thread/INFO]: VncenzoX[/127.134.181.19:51297] logged in with entity id 10 at (world, 150.9234, 72.3224, 304.472)
+2022-05-21 [10:35:53.927] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [10:36:09.652] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [10:36:09.660] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-21 [10:36:11.624] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [10:36:37.870] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [10:36:37.883] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [10:38:23.053] [Server thread/INFO]: [NetworkSession: 127.134.181.19 48943] Session opened
+2022-05-21 [10:38:23.141] [Server thread/INFO]: [NetworkSession: 127.134.181.19 48943] Player: VncenzoX
+2022-05-21 [10:38:23.892] [Server thread/INFO]: VncenzoX[/127.134.181.19:48943] logged in with entity id 11 at (world, 146.2725, 71.8419, 305.2963)
+2022-05-21 [10:38:33.983] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [10:41:05.098] [Server thread/INFO]: [VncenzoX: Set the world spawn point to (143, 75, 303)]
+2022-05-21 [10:41:16.963] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47758] Session opened
+2022-05-21 [10:41:17.179] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47758] Player: Eclairyu3342
+2022-05-21 [10:41:17.801] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:47758] logged in with entity id 13 at (world, 141.4465, 64, 299.0403)
+2022-05-21 [10:41:26.322] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [10:41:37.450] [Server thread/INFO]: <VncenzoX> lag ke
+2022-05-21 [10:41:51.053] [Server thread/INFO]: <Eclairyu3342> ok ne..
+2022-05-21 [10:42:09.271] [Server thread/INFO]: <VncenzoX> mulakan kehidupan baru disini
+2022-05-21 [10:42:14.301] [Server thread/INFO]: <Eclairyu3342> server lama prob kan..
+2022-05-21 [10:42:17.230] [Server thread/INFO]: <Eclairyu3342> huhuhu
+2022-05-21 [10:42:38.837] [Server thread/INFO]: <VncenzoX> haah...xtau pasaipa
+2022-05-21 [10:43:12.755] [Server thread/INFO]: <Eclairyu3342> nk cri tanah rata
+2022-05-21 [10:43:18.486] [Server thread/INFO]: <Eclairyu3342> aku nk luas..
+2022-05-21 [10:43:45.977] [Server thread/INFO]: <VncenzoX> tu byk rata.
+2022-05-21 [10:44:31.209] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [10:44:31.219] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [10:44:52.799] [Server thread/INFO]: [NetworkSession: 127.134.181.19 48943] Session opened
+2022-05-21 [10:44:52.937] [Server thread/INFO]: [NetworkSession: 127.134.181.19 48943] Player: VncenzoX
+2022-05-21 [10:44:53.647] [Server thread/INFO]: VncenzoX[/127.134.181.19:48943] logged in with entity id 14 at (world, 147.3994, 76.6405, 317.7875)
+2022-05-21 [10:45:03.390] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [10:46:12.459] [Server thread/INFO]: <VncenzoX> nak pkai survival mode ke creative
+2022-05-21 [10:46:23.688] [Server thread/INFO]: <Eclairyu3342> creative la..
+2022-05-21 [10:46:27.716] [Server thread/INFO]: <VncenzoX> faris kata survival mode boleh craft
+2022-05-21 [10:46:34.190] [Server thread/INFO]: <Eclairyu3342> xdak masa nk p farming..
+2022-05-21 [10:46:41.784] [Server thread/INFO]: <VncenzoX> eh hilmi
+2022-05-21 [10:46:46.913] [Server thread/INFO]: <VncenzoX> haa ok la
+2022-05-21 [10:47:37.450] [Server thread/INFO]: [VncenzoX: Opped Eclairyu3342]
+2022-05-21 [10:47:44.501] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [10:47:44.509] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-21 [10:48:43.455] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [10:51:33.376] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [10:51:33.389] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [11:08:32.980] [Server thread/INFO]: [NetworkSession: 127.39.195.162 51118] Session opened
+2022-05-21 [11:08:33.491] [Server thread/INFO]: [NetworkSession: 127.39.195.162 51118] Player: HanaLily93
+2022-05-21 [11:08:34.624] [Server thread/INFO]: HanaLily93[/127.39.195.162:51118] logged in with entity id 15 at (world, 151.0201, 68.2991, 306.3278)
+2022-05-21 [11:08:47.016] [Server thread/INFO]: HanaLily93 joined the game
+2022-05-21 [11:09:31.246] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47780] Session opened
+2022-05-21 [11:09:31.480] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47780] Player: Eclairyu3342
+2022-05-21 [11:09:32.234] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:47780] logged in with entity id 16 at (world, 140.8073, 64, 300.1289)
+2022-05-21 [11:09:41.361] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [11:10:31.576] [Server thread/INFO]: <HanaLily93> jauh sikitt
+2022-05-21 [11:12:47.200] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [11:12:47.207] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-21 [11:22:08.436] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51424] Session opened
+2022-05-21 [11:22:08.583] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51424] Player: VncenzoX
+2022-05-21 [11:22:09.324] [Server thread/INFO]: VncenzoX[/127.134.181.19:51424] logged in with entity id 17 at (world, 146.3, 77.7039, 336.2686)
+2022-05-21 [11:22:19.226] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [11:22:44.261] [Server thread/INFO]: [VncenzoX: Opped Hanalily93]
+2022-05-21 [11:22:58.496] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [11:23:04.426] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [11:23:04.435] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [11:33:53.843] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [11:36:56.886] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47751] Session opened
+2022-05-21 [11:36:57.284] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47751] Player: Eclairyu3342
+2022-05-21 [11:36:58.308] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:47751] logged in with entity id 18 at (world, 136.6375, 78.8733, 273.3732)
+2022-05-21 [11:37:06.882] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [11:37:33.017] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [11:37:33.026] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-21 [11:37:48.476] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47775] Session opened
+2022-05-21 [11:37:48.924] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47775] Player: Eclairyu3342
+2022-05-21 [11:37:49.587] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:47775] logged in with entity id 19 at (world, 109.959, 73.4153, 250.0062)
+2022-05-21 [11:37:58.446] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [11:43:45.486] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [11:52:40.064] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51317] Session opened
+2022-05-21 [11:52:40.212] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51317] Player: VncenzoX
+2022-05-21 [11:52:40.932] [Server thread/INFO]: VncenzoX[/127.134.181.19:51317] logged in with entity id 22 at (world, 149.7712, 66, 315.2905)
+2022-05-21 [11:52:50.574] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [11:53:27.486] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [11:55:44.116] [Server thread/INFO]: [VncenzoX: Teleported VncenzoX to Eclairyu3342]
+2022-05-21 [11:56:15.478] [Server thread/INFO]: <VncenzoX> jauh btul rumah kau
+2022-05-21 [11:56:56.351] [Server thread/INFO]: <Eclairyu3342> aa..nk buat apartment
+2022-05-21 [11:57:26.862] [Server thread/INFO]: <Eclairyu3342> muda2 dah ade own apartment
+2022-05-21 [11:58:07.434] [Server thread/INFO]: <VncenzoX> nnti aku buat rules kne bayar cukai pintu
+2022-05-21 [11:58:23.114] [Server thread/INFO]: <Eclairyu3342> ok..aku xnak letak pintu..
+2022-05-21 [11:58:33.630] [Server thread/INFO]: <VncenzoX> anjir
+2022-05-21 [12:02:41.184] [Server thread/INFO]: <VncenzoX> aku nak buat hotel sini
+2022-05-21 [12:02:47.233] [Server thread/INFO]: <Eclairyu3342> pencerobohan..
+2022-05-21 [12:03:05.016] [Server thread/INFO]: <VncenzoX> hahaha kau nk buat besar mana
+2022-05-21 [12:03:15.573] [Server thread/INFO]: <Eclairyu3342> besar doh..
+2022-05-21 [12:03:26.248] [Server thread/INFO]: <Eclairyu3342> nk letak tepi laut
+2022-05-21 [12:03:29.630] [Server thread/INFO]: <VncenzoX> ok la aku gi tempat lain
+2022-05-21 [12:03:36.017] [Server thread/INFO]: <VncenzoX> demi kau...
+2022-05-21 [12:03:42.150] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [12:03:43.452] [Server thread/INFO]: <Eclairyu3342> aku punya la ratakan sini..
+2022-05-21 [12:04:06.810] [Server thread/INFO]: <Eclairyu3342> hahahah..tuan tanah kene halau..
+2022-05-21 [12:04:45.150] [Server thread/INFO]: <VncenzoX> aku buat atas laut la
+2022-05-21 [12:05:03.555] [Server thread/INFO]: <Eclairyu3342> buat kerajaan langit laa..
+2022-05-21 [12:05:41.922] [Server thread/INFO]: <VncenzoX> langgar hukum alam..xboleh
+2022-05-21 [12:06:03.106] [Server thread/INFO]: <Eclairyu3342> ade tu tngok..dia buat planet oo..
+2022-05-21 [12:06:52.725] [Server thread/INFO]: <VncenzoX> haahha..nnti jadi x logik
+2022-05-21 [12:13:29.966] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [12:22:45.218] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [12:32:31.832] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [12:42:14.372] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [12:51:39.739] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [12:56:12.293] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [12:56:12.302] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-21 [12:56:34.915] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47775] Session opened
+2022-05-21 [12:56:35.251] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47775] Player: Eclairyu3342
+2022-05-21 [12:56:36.015] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:47775] logged in with entity id 24 at (world, 107.516, 66, 237.5303)
+2022-05-21 [12:56:46.661] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [13:00:47.353] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [13:09:13.376] [Server thread/INFO]: <VncenzoX> paip bocor ke..hahH
+2022-05-21 [13:09:25.417] [Server thread/INFO]: <Eclairyu3342> ye doh..
+2022-05-21 [13:09:40.704] [Server thread/INFO]: <VncenzoX> pkai batu la tutup..hahaha
+2022-05-21 [13:10:39.060] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [13:20:21.418] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [13:20:21.429] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [13:20:35.751] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [13:20:41.819] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51317] Session opened
+2022-05-21 [13:20:41.947] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51317] Player: VncenzoX
+2022-05-21 [13:20:42.659] [Server thread/INFO]: VncenzoX[/127.134.181.19:51317] logged in with entity id 25 at (world, 91.0545, 72.9776, 307.431)
+2022-05-21 [13:20:52.394] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [13:22:30.815] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [13:22:30.826] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to client disconnect
+2022-05-21 [13:26:58.191] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [13:26:58.203] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [13:27:25.218] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51317] Session opened
+2022-05-21 [13:27:25.296] [Server thread/INFO]: [NetworkSession: 127.134.181.19 51317] Player: VncenzoX
+2022-05-21 [13:27:25.987] [Server thread/INFO]: VncenzoX[/127.134.181.19:51317] logged in with entity id 26 at (world, 101.8638, 67.673, 306.5478)
+2022-05-21 [13:27:35.517] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [13:30:38.648] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [13:30:42.517] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [13:39:55.928] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [13:49:45.923] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [13:59:28.994] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [14:02:16.738] [Server thread/INFO]: HanaLily93 left the game
+2022-05-21 [14:02:16.746] [Server thread/INFO]: [NetworkSession: HanaLily93] Session closed due to client disconnect
+2022-05-21 [14:09:35.784] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [14:19:50.498] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [14:20:03.834] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47191] Session opened
+2022-05-21 [14:20:04.090] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47191] Player: Eclairyu3342
+2022-05-21 [14:20:04.772] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:47191] logged in with entity id 27 at (world, 122.2491, 66.1358, 235.9457)
+2022-05-21 [14:20:13.635] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [14:24:06.638] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [14:24:06.649] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to client disconnect
+2022-05-21 [14:24:22.494] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47191] Session opened
+2022-05-21 [14:24:22.921] [Server thread/INFO]: [NetworkSession: 127.56.211.185 47191] Player: Eclairyu3342
+2022-05-21 [14:24:23.675] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:47191] logged in with entity id 28 at (world, 110.0378, 65.4253, 236.9908)
+2022-05-21 [14:24:32.519] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [14:30:05.318] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-21 [14:41:20.017] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-21 [14:47:56.259] [Server thread/INFO]: [NetworkSession: 127.39.195.162 57081] Session opened
+2022-05-21 [14:47:56.535] [Server thread/INFO]: [NetworkSession: 127.39.195.162 57081] Player: HanaLily93
+2022-05-21 [14:47:57.309] [Server thread/INFO]: HanaLily93[/127.39.195.162:57081] logged in with entity id 29 at (world, 121.9588, 71.2115, 301.4857)
+2022-05-21 [14:48:09.659] [Server thread/INFO]: HanaLily93 joined the game
+2022-05-21 [14:51:09.944] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [15:00:57.197] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [15:01:55.033] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [15:01:55.044] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-21 [15:02:22.760] [Server thread/INFO]: [NetworkSession: 127.56.211.185 45526] Session opened
+2022-05-21 [15:02:22.997] [Server thread/INFO]: [NetworkSession: 127.56.211.185 45526] Player: Eclairyu3342
+2022-05-21 [15:02:23.710] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:45526] logged in with entity id 30 at (world, 116.9863, 76.072, 244.6304)
+2022-05-21 [15:02:35.677] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [15:10:31.119] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [15:20:13.384] [Server thread/INFO]: [HanaLily93: Set the time to 1000]
+2022-05-21 [15:21:05.806] [Server thread/INFO]: HanaLily93 left the game
+2022-05-21 [15:21:05.813] [Server thread/INFO]: [NetworkSession: HanaLily93] Session closed due to client disconnect
+2022-05-21 [15:30:57.658] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [15:31:00.013] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-21 [15:41:16.980] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [15:51:34.799] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-21 [16:01:24.150] [Server thread/INFO]: <VncenzoX> mana gambar makanan aku
+2022-05-21 [16:01:35.110] [Server thread/INFO]: <Eclairyu3342> delete
+2022-05-21 [16:01:40.493] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-21 [16:01:46.049] [Server thread/INFO]: <VncenzoX> kamu jahat
+2022-05-21 [16:11:38.429] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-21 [16:23:22.239] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [16:33:51.807] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [16:33:51.819] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [16:33:53.007] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-21 [16:43:26.869] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [16:43:26.882] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to client disconnect
+2022-05-21 [19:28:14.148] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48913] Session opened
+2022-05-21 [19:28:14.245] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48913] Player: VncenzoX
+2022-05-21 [19:28:14.978] [Server thread/INFO]: VncenzoX[/127.85.178.89:48913] logged in with entity id 36 at (world, 70.8288, 75.4573, 328.016)
+2022-05-21 [19:28:24.368] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [19:28:33.751] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [19:34:42.472] [Server thread/INFO]: [NetworkSession: 127.39.195.162 42259] Session opened
+2022-05-21 [19:34:42.795] [Server thread/INFO]: [NetworkSession: 127.39.195.162 42259] Player: Steve
+2022-05-21 [19:34:42.838] [Server thread/INFO]: [NetworkSession: Steve] Session closed due to disconnectionScreen.notAuthenticated
+2022-05-21 [19:37:33.585] [Server thread/INFO]: [NetworkSession: 127.39.195.162 54961] Session opened
+2022-05-21 [19:37:33.969] [Server thread/INFO]: [NetworkSession: 127.39.195.162 54961] Player: Steve
+2022-05-21 [19:37:34.019] [Server thread/INFO]: [NetworkSession: Steve] Session closed due to disconnectionScreen.notAuthenticated
+2022-05-21 [19:38:41.715] [Server thread/INFO]: [NetworkSession: 127.39.195.162 42189] Session opened
+2022-05-21 [19:38:42.120] [Server thread/INFO]: [NetworkSession: 127.39.195.162 42189] Player: HanaLily93
+2022-05-21 [19:38:47.750] [Server thread/INFO]: HanaLily93[/127.39.195.162:42189] logged in with entity id 37 at (world, 132.0168, 72.4459, 313.6155)
+2022-05-21 [19:39:04.918] [Server thread/INFO]: HanaLily93 joined the game
+2022-05-21 [19:39:12.534] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [19:42:17.058] [Server thread/INFO]: HanaLily93 left the game
+2022-05-21 [19:42:17.064] [Server thread/INFO]: [NetworkSession: HanaLily93] Session closed due to client disconnect
+2022-05-21 [19:50:23.925] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [19:59:54.333] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [20:10:25.914] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [20:20:52.915] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [20:30:48.232] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [20:45:13.683] [Server thread/INFO]: [NetworkSession: 127.56.211.185 60249] Session opened
+2022-05-21 [20:45:13.900] [Server thread/INFO]: [NetworkSession: 127.56.211.185 60249] Player: Eclairyu3342
+2022-05-21 [20:45:14.591] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:60249] logged in with entity id 38 at (world, 111.1819, 79.1301, 264.6893)
+2022-05-21 [20:45:23.185] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [20:45:44.390] [Server thread/INFO]: <VncenzoX> keje ui
+2022-05-21 [20:45:53.723] [Server thread/INFO]: <Eclairyu3342> hahaha..
+2022-05-21 [20:45:55.587] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [20:45:58.664] [Server thread/INFO]: <Eclairyu3342> aku on awai..
+2022-05-21 [20:46:07.458] [Server thread/INFO]: <Eclairyu3342> barang laju mcm pelesit
+2022-05-21 [20:47:27.946] [Server thread/INFO]: <VncenzoX> kalau laju x rasa la mcm laptop opis
+2022-05-21 [20:47:55.943] [Server thread/INFO]: <Eclairyu3342> perghh..
+2022-05-21 [20:48:03.037] [Server thread/INFO]: <Eclairyu3342> rumah atas laut ea..
+2022-05-21 [20:48:14.776] [Server thread/INFO]: <VncenzoX> ni hotel
+2022-05-21 [20:48:29.223] [Server thread/INFO]: <VncenzoX> ade wayang
+2022-05-21 [20:48:47.642] [Server thread/INFO]: <Eclairyu3342> bahahah..macam mall..
+2022-05-21 [20:49:41.721] [Server thread/INFO]: <VncenzoX> nnti nam suh aina on
+2022-05-21 [20:49:51.026] [Server thread/INFO]: <Eclairyu3342> bahahaha..
+2022-05-21 [20:50:00.542] [Server thread/INFO]: <Eclairyu3342> weyh..
+2022-05-21 [20:50:10.261] [Server thread/INFO]: <VncenzoX> nk tgk wayang dak
+2022-05-21 [20:50:21.923] [Server thread/INFO]: <Eclairyu3342> aku nk buat kerajaan langit..
+2022-05-21 [20:50:38.469] [Server thread/INFO]: <VncenzoX> hahaha lawan hukum alam doh
+2022-05-21 [20:50:45.458] [Server thread/INFO]: <Eclairyu3342> bahahah..
+2022-05-21 [20:50:51.611] [Server thread/INFO]: <VncenzoX> sin
+2022-05-21 [20:51:32.049] [Server thread/INFO]: <VncenzoX> wayang doh
+2022-05-21 [20:51:43.996] [Server thread/INFO]: <Eclairyu3342> bahahHahHa..
+2022-05-21 [20:51:51.207] [Server thread/INFO]: <Eclairyu3342> mantap
+2022-05-21 [20:52:23.987] [Server thread/INFO]: <VncenzoX> bru syok gelap
+2022-05-21 [20:52:35.454] [Server thread/INFO]: <Eclairyu3342> kecik skrin
+2022-05-21 [20:52:51.385] [Server thread/INFO]: <VncenzoX> bajet x ckup
+2022-05-21 [20:52:58.022] [Server thread/INFO]: <VncenzoX> skrin pun second
+2022-05-21 [20:53:06.913] [Server thread/INFO]: <Eclairyu3342> mcm mall doh..
+2022-05-21 [20:54:30.486] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [20:54:30.498] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [21:00:34.129] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [21:00:34.142] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-21 [21:05:12.422] [Server thread/INFO]: [NetworkSession: 127.85.178.89 56975] Session opened
+2022-05-21 [21:05:12.560] [Server thread/INFO]: [NetworkSession: 127.85.178.89 56975] Player: VncenzoX
+2022-05-21 [21:05:13.302] [Server thread/INFO]: VncenzoX[/127.85.178.89:56975] logged in with entity id 39 at (world, 118.5551, 66, 261.8248)
+2022-05-21 [21:05:22.965] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [21:11:29.900] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [21:11:29.915] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [21:11:56.369] [Server thread/INFO]: [NetworkSession: 127.125.75.191 50430] Session opened
+2022-05-21 [21:11:56.566] [Server thread/INFO]: [NetworkSession: 127.125.75.191 50430] Player: naaniinoo
+2022-05-21 [21:11:57.267] [Server thread/INFO]: naaniinoo[/127.125.75.191:50430] logged in with entity id 40 at (world, 143, 64, 303)
+2022-05-21 [21:12:05.947] [Server thread/INFO]: naaniinoo joined the game
+2022-05-21 [21:12:34.377] [Server thread/INFO]: <naaniinoo> hellllooo!
+2022-05-21 [21:12:42.525] [Server thread/INFO]: <naaniinoo> mantepp gais
+2022-05-21 [21:12:55.275] [Server thread/INFO]: naaniinoo left the game
+2022-05-21 [21:12:55.286] [Server thread/INFO]: [NetworkSession: naaniinoo] Session closed due to client disconnect
+2022-05-21 [21:13:23.044] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57030] Session opened
+2022-05-21 [21:13:23.143] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57030] Player: VncenzoX
+2022-05-21 [21:13:23.902] [Server thread/INFO]: VncenzoX[/127.85.178.89:57030] logged in with entity id 41 at (world, 119.2862, 90.4779, 334.5078)
+2022-05-21 [21:13:27.581] [Server thread/INFO]: [NetworkSession: 127.125.75.191 50386] Session opened
+2022-05-21 [21:13:27.793] [Server thread/INFO]: [NetworkSession: 127.125.75.191 50386] Player: naaniinoo
+2022-05-21 [21:13:28.422] [Server thread/INFO]: naaniinoo[/127.125.75.191:50386] logged in with entity id 42 at (world, 143, 64, 303)
+2022-05-21 [21:13:33.584] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [21:13:38.150] [Server thread/INFO]: naaniinoo joined the game
+2022-05-21 [21:13:55.112] [Server thread/INFO]: <VncenzoX> wehhh...hahHHa
+2022-05-21 [21:14:10.245] [Server thread/INFO]: <VncenzoX> ni rumah tunang aku
+2022-05-21 [21:14:26.390] [Server thread/INFO]: <VncenzoX> yg belah kanan rumah yazid
+2022-05-21 [21:14:39.620] [Server thread/INFO]: <VncenzoX> atas laut hotel Ku
+2022-05-21 [21:14:45.044] [Server thread/INFO]: <VncenzoX> atas laut hotel aku
+2022-05-21 [21:15:41.512] [Server thread/INFO]: <naaniinoo> hahahahahahaha
+2022-05-21 [21:15:45.844] [Server thread/INFO]: <naaniinoo> cantikkk
+2022-05-21 [21:15:46.197] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [21:16:00.849] [Server thread/INFO]: <naaniinoo> jap nak beli tanah nak buat rummah
+2022-05-21 [21:16:19.396] [Server thread/INFO]: <VncenzoX> hahaha buat je tanah rezab melayu ni
+2022-05-21 [21:16:30.212] [Server thread/INFO]: <VncenzoX> kau buat sebelah yazid la
+2022-05-21 [21:16:59.397] [Server thread/INFO]: <VncenzoX> x siap lg hotel ni
+2022-05-21 [21:17:33.724] [Server thread/INFO]: <VncenzoX> boleh terbang doh..tekan lompat dua kali
+2022-05-21 [21:19:42.216] [Server thread/INFO]: <naaniinoo> wehhhh takreti naikkk
+2022-05-21 [21:19:45.792] [Server thread/INFO]: <naaniinoo> haahahhahahaha
+2022-05-21 [21:19:54.123] [Server thread/INFO]: <VncenzoX> tekan lompat dua kali
+2022-05-21 [21:20:11.115] [Server thread/INFO]: <VncenzoX> belah kanan tu boleh terbang..hahha
+2022-05-21 [21:20:38.500] [Server thread/INFO]: <naaniinoo> haahhahahahaa okayy bolehh
+2022-05-21 [21:21:01.590] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [21:21:01.596] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to timeout
+2022-05-21 [21:21:37.080] [Server thread/INFO]: naaniinoo left the game
+2022-05-21 [21:21:37.092] [Server thread/INFO]: [NetworkSession: naaniinoo] Session closed due to client disconnect
+2022-05-21 [21:22:36.027] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49068] Session opened
+2022-05-21 [21:22:36.166] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49068] Player: VncenzoX
+2022-05-21 [21:22:36.886] [Server thread/INFO]: VncenzoX[/127.85.178.89:49068] logged in with entity id 43 at (world, 115.5923, 78.0279, 311.7225)
+2022-05-21 [21:22:44.210] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [21:24:47.410] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49048] Session opened
+2022-05-21 [21:24:47.498] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49048] Player: VncenzoX
+2022-05-21 [21:24:48.257] [Server thread/INFO]: VncenzoX[/127.85.178.89:49048] logged in with entity id 44 at (world, 115.5923, 78.0279, 311.7225)
+2022-05-21 [21:24:58.049] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [21:29:28.682] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [21:29:28.697] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [21:46:17.199] [Server thread/INFO]: [NetworkSession: 127.85.178.89 43708] Session opened
+2022-05-21 [21:46:17.326] [Server thread/INFO]: [NetworkSession: 127.85.178.89 43708] Player: VncenzoX
+2022-05-21 [21:46:18.087] [Server thread/INFO]: VncenzoX[/127.85.178.89:43708] logged in with entity id 45 at (world, 130.652, 82.95, 304.3707)
+2022-05-21 [21:46:28.295] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [21:46:50.926] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [21:56:32.186] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [22:05:12.124] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [22:08:17.521] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [22:08:17.528] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [22:10:26.394] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57018] Session opened
+2022-05-21 [22:10:26.583] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57018] Player: VncenzoX
+2022-05-21 [22:10:27.366] [Server thread/INFO]: VncenzoX[/127.85.178.89:57018] logged in with entity id 55 at (world, 80.2999, 69.0625, 323.0806)
+2022-05-21 [22:10:37.218] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [22:15:52.309] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [22:26:05.506] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [22:31:50.179] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49594] Session opened
+2022-05-21 [22:31:50.466] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49594] Player: Eclairyu3342
+2022-05-21 [22:31:51.229] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49594] logged in with entity id 131 at (world, 106.5381, 200.7551, 211.2016)
+2022-05-21 [22:31:59.773] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-21 [22:36:19.037] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-21 [22:37:51.472] [Server thread/INFO]: <Eclairyu3342> sup
+2022-05-21 [22:38:01.797] [Server thread/INFO]: <Eclairyu3342> bwak katil ea..
+2022-05-21 [22:38:18.922] [Server thread/INFO]: <VncenzoX> tempat kuarantin covid
+2022-05-21 [22:43:13.264] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [22:43:13.271] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [22:43:32.829] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57018] Session opened
+2022-05-21 [22:43:32.927] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57018] Player: VncenzoX
+2022-05-21 [22:43:33.748] [Server thread/INFO]: VncenzoX[/127.85.178.89:57018] logged in with entity id 140 at (world, 77.6834, 74.3514, 315.0208)
+2022-05-21 [22:43:43.915] [Server thread/INFO]: VncenzoX joined the game
+2022-05-21 [22:45:38.487] [Server thread/INFO]: VncenzoX left the game
+2022-05-21 [22:45:38.493] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-21 [22:58:04.133] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-21 [22:58:04.147] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-21 [23:41:50.790] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49570] Session opened
+2022-05-21 [23:41:51.037] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49570] Player: Eclairyu3342
+2022-05-21 [23:41:51.783] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49570] logged in with entity id 155 at (world, 113.1104, 205.1859, 217.4878)
+2022-05-21 [23:42:00.621] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-22 [00:00:40.834] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-22 [00:00:40.848] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to client disconnect
+2022-05-22 [00:01:33.670] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49540] Session opened
+2022-05-22 [00:01:33.928] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49540] Player: Eclairyu3342
+2022-05-22 [00:01:34.732] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49540] logged in with entity id 203 at (world, 106.4841, 183.74, 218.3788)
+2022-05-22 [00:01:43.880] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-22 [00:07:51.355] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-22 [00:12:12.711] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-22 [00:12:12.728] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-22 [00:12:30.362] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49540] Session opened
+2022-05-22 [00:12:30.592] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49540] Player: Eclairyu3342
+2022-05-22 [00:12:31.363] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49540] logged in with entity id 226 at (world, 108.9053, 172.6877, 214.8456)
+2022-05-22 [00:12:42.826] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-22 [00:17:31.012] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-22 [00:17:31.026] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-22 [00:18:10.720] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49537] Session opened
+2022-05-22 [00:18:10.990] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49537] Player: Eclairyu3342
+2022-05-22 [00:18:11.742] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49537] logged in with entity id 227 at (world, 108.1884, 176.117, 216.1296)
+2022-05-22 [00:18:20.842] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-22 [00:18:42.370] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-22 [00:20:33.401] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-22 [00:20:33.414] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-22 [00:21:27.069] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49528] Session opened
+2022-05-22 [00:21:27.358] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49528] Player: Eclairyu3342
+2022-05-22 [00:21:28.073] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49528] logged in with entity id 250 at (world, 105.4081, 177.1897, 218.3335)
+2022-05-22 [00:21:36.941] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-22 [00:37:28.041] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-22 [00:37:28.056] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to client disconnect
+2022-05-22 [00:37:43.427] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49528] Session opened
+2022-05-22 [00:37:43.696] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49528] Player: Eclairyu3342
+2022-05-22 [00:37:44.386] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49528] logged in with entity id 273 at (world, 116.0112, 186.4593, 222.1783)
+2022-05-22 [00:37:56.496] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-22 [00:45:01.627] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-22 [00:45:01.641] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to client disconnect
+2022-05-22 [00:53:00.928] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49544] Session opened
+2022-05-22 [00:53:01.207] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49544] Player: Eclairyu3342
+2022-05-22 [00:53:01.971] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49544] logged in with entity id 274 at (world, 90.7778, 170, 216.0143)
+2022-05-22 [00:53:10.975] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-22 [00:53:36.590] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-22 [00:59:57.560] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49075] Session opened
+2022-05-22 [00:59:57.706] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49075] Player: VncenzoX
+2022-05-22 [00:59:58.457] [Server thread/INFO]: VncenzoX[/127.85.178.89:49075] logged in with entity id 297 at (world, 76.1477, 76.3022, 315.7)
+2022-05-22 [01:00:08.040] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [01:04:08.284] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-22 [01:06:48.432] [Server thread/INFO]: <VncenzoX> masjid ke
+2022-05-22 [01:07:08.445] [Server thread/INFO]: <VncenzoX> mcm dragon ball je
+2022-05-22 [01:07:33.043] [Server thread/INFO]: <Eclairyu3342> aa..
+2022-05-22 [01:07:42.248] [Server thread/INFO]: <Eclairyu3342> kami's lookout
+2022-05-22 [01:07:59.078] [Server thread/INFO]: <VncenzoX> bawah tu gelap doh
+2022-05-22 [01:08:03.239] [Server thread/INFO]: <Eclairyu3342> kn dah bgatu..kerajaan langit
+2022-05-22 [01:34:43.609] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [01:34:43.622] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [01:35:29.091] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57015] Session opened
+2022-05-22 [01:35:29.238] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57015] Player: VncenzoX
+2022-05-22 [01:35:30.019] [Server thread/INFO]: VncenzoX[/127.85.178.89:57015] logged in with entity id 313 at (world, 98.6285, 68.1052, 311.5361)
+2022-05-22 [01:35:39.948] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [01:35:46.562] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-22 [01:45:37.689] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-22 [01:55:22.624] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-22 [02:01:02.101] [Server thread/INFO]: <VncenzoX> mana katil aku
+2022-05-22 [02:03:34.536] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [02:03:34.549] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [02:12:13.954] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-22 [02:12:13.966] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to client disconnect
+2022-05-22 [02:59:32.599] [Server thread/INFO]: Received signal interrupt, stopping the server
+2022-05-22 [02:59:32.608] [Server thread/INFO]: Unloading world "world"
+2022-05-22 [02:59:32.699] [Server thread/INFO]: Stopping other threads
+2022-05-22 [02:59:39.228] [Server thread/INFO]: Loading server configuration
+2022-05-22 [02:59:39.290] [Server thread/INFO]: Selected English (eng) as the base language
+2022-05-22 [02:59:39.297] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.30
+2022-05-22 [02:59:39.304] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2022-05-22 [02:59:39.346] [Server thread/INFO]: This server is running PocketMine-MP version 4.3.3
+2022-05-22 [02:59:39.346] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2022-05-22 [02:59:39.957] [Server thread/INFO]: Loading resource packs...
+2022-05-22 [02:59:40.003] [Server thread/INFO]: Loading SimpleNPC v3.0.1
+2022-05-22 [02:59:40.156] [Server thread/INFO]: Preparing world "world"
+2022-05-22 [02:59:40.215] [Server thread/INFO]: Enabling SimpleNPC v3.0.1
+2022-05-22 [02:59:40.366] [Server thread/INFO]: Minecraft network interface running on 127.0.0.1:19132
+2022-05-22 [02:59:40.366] [Server thread/INFO]: GS4 Query listener running on 127.0.0.1:19132
+2022-05-22 [02:59:40.395] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2022-05-22 [02:59:40.395] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2022-05-22 [02:59:40.397] [Server thread/INFO]: Default game type: Creative Mode
+2022-05-22 [02:59:40.397] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2022-05-22 [02:59:40.398] [Server thread/INFO]: Done (1.171s)! For help, type "help" or "?"
+2022-05-22 [03:01:58.059] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57026] Session opened
+2022-05-22 [03:01:58.104] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57026] Player: VncenzoX
+2022-05-22 [03:01:58.882] [Server thread/INFO]: VncenzoX[/127.85.178.89:57026] logged in with entity id 1 at (world, 102.1521, 61, 265.3521)
+2022-05-22 [03:02:07.773] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [03:07:31.225] [Server thread/INFO]: <VncenzoX> sn
+2022-05-22 [03:18:17.613] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [03:18:17.630] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to timeout
+2022-05-22 [03:18:33.551] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57026] Session opened
+2022-05-22 [03:18:33.668] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57026] Player: VncenzoX
+2022-05-22 [03:18:34.409] [Server thread/INFO]: VncenzoX[/127.85.178.89:57026] logged in with entity id 41 at (world, 81.6061, 64.0625, 311.0871)
+2022-05-22 [03:18:44.116] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [03:32:54.932] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-22 [03:49:04.131] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [03:49:04.148] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [03:51:34.888] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48839] Session opened
+2022-05-22 [03:51:34.977] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48839] Player: VncenzoX
+2022-05-22 [03:51:35.757] [Server thread/INFO]: VncenzoX[/127.85.178.89:48839] logged in with entity id 79 at (world, 80.6584, 69.0625, 308.2427)
+2022-05-22 [03:51:45.608] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [04:02:52.318] [Server thread/INFO]: [VncenzoX: Set the time to 18000]
+2022-05-22 [04:07:41.715] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [04:07:41.732] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [04:11:53.398] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49024] Session opened
+2022-05-22 [04:11:53.527] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49024] Player: VncenzoX
+2022-05-22 [04:11:54.262] [Server thread/INFO]: VncenzoX[/127.85.178.89:49024] logged in with entity id 124 at (world, 72.7146, 69.0625, 301.5511)
+2022-05-22 [04:12:04.244] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [04:13:59.540] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [04:13:59.557] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [04:14:43.977] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48873] Session opened
+2022-05-22 [04:14:44.074] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48873] Player: VncenzoX
+2022-05-22 [04:14:44.791] [Server thread/INFO]: VncenzoX[/127.85.178.89:48873] logged in with entity id 169 at (world, 110.1082, 64, 311.3748)
+2022-05-22 [04:14:54.649] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [04:16:15.491] [Server thread/INFO]: <VncenzoX> https://poggit.pmmp.io/r/162290/SimpleNPC.phar
+2022-05-22 [04:16:27.834] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [04:16:27.851] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [04:17:35.320] [Server thread/INFO]: [NetworkSession: 127.85.178.89 43704] Session opened
+2022-05-22 [04:17:35.397] [Server thread/INFO]: [NetworkSession: 127.85.178.89 43704] Player: VncenzoX
+2022-05-22 [04:17:36.138] [Server thread/INFO]: VncenzoX[/127.85.178.89:43704] logged in with entity id 212 at (world, 116.1579, 64, 310.8542)
+2022-05-22 [04:17:46.114] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [04:18:57.247] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [04:18:57.264] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [04:21:00.070] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48957] Session opened
+2022-05-22 [04:21:00.219] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48957] Player: VncenzoX
+2022-05-22 [04:21:00.968] [Server thread/INFO]: VncenzoX[/127.85.178.89:48957] logged in with entity id 258 at (world, 115.6718, 64, 311.3494)
+2022-05-22 [04:21:11.126] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [04:23:28.179] [Server thread/INFO]: <VncenzoX> 😁
+2022-05-22 [04:24:56.638] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [04:24:56.653] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [05:02:07.464] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57028] Session opened
+2022-05-22 [05:02:07.551] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57028] Player: VncenzoX
+2022-05-22 [05:02:08.303] [Server thread/INFO]: VncenzoX[/127.85.178.89:57028] logged in with entity id 320 at (world, 82.9998, 64.0625, 296.1139)
+2022-05-22 [05:02:17.969] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [05:03:20.088] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [05:03:20.103] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [05:43:48.815] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2022-05-22 [05:43:48.834] [Server thread/INFO]: Disabling SimpleNPC v3.0.1
+2022-05-22 [05:43:48.838] [Server thread/INFO]: Unloading world "world"
+2022-05-22 [05:43:49.060] [Server thread/INFO]: Stopping other threads
+2022-05-22 [05:43:55.828] [Server thread/INFO]: Loading server configuration
+2022-05-22 [05:43:55.889] [Server thread/INFO]: Selected English (eng) as the base language
+2022-05-22 [05:43:55.896] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.30
+2022-05-22 [05:43:55.904] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2022-05-22 [05:43:55.945] [Server thread/INFO]: This server is running PocketMine-MP version 4.3.3
+2022-05-22 [05:43:55.946] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2022-05-22 [05:43:56.553] [Server thread/INFO]: Loading resource packs...
+2022-05-22 [05:43:56.610] [Server thread/INFO]: Loading BlockPets v2.0.1
+2022-05-22 [05:43:56.622] [Server thread/INFO]: Loading SimpleLay v3.0.1
+2022-05-22 [05:43:56.628] [Server thread/INFO]: Loading SimpleNPC v3.0.1
+2022-05-22 [05:43:56.796] [Server thread/INFO]: Preparing world "world"
+2022-05-22 [05:43:56.856] [Server thread/INFO]: Enabling BlockPets v2.0.1
+2022-05-22 [05:43:57.038] [Server thread/INFO]: Enabling SimpleLay v3.0.1
+2022-05-22 [05:43:57.049] [Server thread/INFO]: Enabling SimpleNPC v3.0.1
+2022-05-22 [05:43:57.149] [Server thread/INFO]: Minecraft network interface running on 127.0.0.1:19132
+2022-05-22 [05:43:57.149] [Server thread/INFO]: GS4 Query listener running on 127.0.0.1:19132
+2022-05-22 [05:43:57.178] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2022-05-22 [05:43:57.178] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2022-05-22 [05:43:57.180] [Server thread/INFO]: Default game type: Creative Mode
+2022-05-22 [05:43:57.181] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2022-05-22 [05:43:57.181] [Server thread/INFO]: Done (1.355s)! For help, type "help" or "?"
+2022-05-22 [05:44:53.573] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48980] Session opened
+2022-05-22 [05:44:53.617] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48980] Player: VncenzoX
+2022-05-22 [05:44:54.502] [Server thread/INFO]: VncenzoX[/127.85.178.89:48980] logged in with entity id 8 at (world, 74.5305, 66.2, 304.191)
+2022-05-22 [05:45:04.229] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [05:46:24.917] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-22 [05:47:10.893] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [05:47:10.911] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [09:39:05.318] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49524] Session opened
+2022-05-22 [09:39:05.627] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49524] Player: Eclairyu3342
+2022-05-22 [09:39:06.454] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49524] logged in with entity id 50 at (world, 104.1901, 160.6323, 268.0444)
+2022-05-22 [09:39:15.421] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-22 [09:39:37.333] [Server thread/INFO]: [NetworkSession: 127.85.178.89 43755] Session opened
+2022-05-22 [09:39:37.419] [Server thread/INFO]: [NetworkSession: 127.85.178.89 43755] Player: VncenzoX
+2022-05-22 [09:39:38.181] [Server thread/INFO]: VncenzoX[/127.85.178.89:43755] logged in with entity id 95 at (world, 93.4366, 70, 293.1714)
+2022-05-22 [09:39:38.634] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-22 [09:39:48.451] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [09:39:56.420] [Server thread/INFO]: <Eclairyu3342> uii..
+2022-05-22 [09:40:04.693] [Server thread/INFO]: <Eclairyu3342> terus lesap.ea..
+2022-05-22 [09:40:13.256] [Server thread/INFO]: <VncenzoX> wehh avaya report dh buat ke
+2022-05-22 [09:40:19.064] [Server thread/INFO]: <Eclairyu3342> dah2
+2022-05-22 [09:40:24.293] [Server thread/INFO]: <VncenzoX> aku baru bangun
+2022-05-22 [09:40:40.530] [Server thread/INFO]: <Eclairyu3342> kita gilir2 la ye nnti avaya tu..
+2022-05-22 [09:40:49.619] [Server thread/INFO]: <VncenzoX> cantekkk
+2022-05-22 [09:41:01.866] [Server thread/INFO]: <Eclairyu3342> kalau salah lesap skali..
+2022-05-22 [09:41:07.635] [Server thread/INFO]: <Eclairyu3342> *sorang
+2022-05-22 [09:41:14.719] [Server thread/INFO]: <Eclairyu3342> hahaha
+2022-05-22 [09:41:25.366] [Server thread/INFO]: <Eclairyu3342> weyh..tlong2
+2022-05-22 [09:41:36.674] [Server thread/INFO]: <Eclairyu3342> kau letak ikut color tu..
+2022-05-22 [09:42:04.198] [Server thread/INFO]: <VncenzoX> hahaha aku on kejap je ni..nk makan sat
+2022-05-22 [09:42:07.925] [Server thread/INFO]: <Eclairyu3342> red/white/green concrete
+2022-05-22 [09:42:11.916] [Server thread/INFO]: <Eclairyu3342> owh..ok
+2022-05-22 [09:44:29.858] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [09:44:29.870] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [09:49:16.821] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48969] Session opened
+2022-05-22 [09:49:16.955] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48969] Player: VncenzoX
+2022-05-22 [09:49:17.690] [Server thread/INFO]: VncenzoX[/127.85.178.89:48969] logged in with entity id 105 at (world, 89.5502, 157.706, 230.792)
+2022-05-22 [09:49:28.015] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [09:49:38.999] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-22 [09:57:04.294] [Server thread/INFO]: <VncenzoX> gelap sgt ni
+2022-05-22 [09:57:17.832] [Server thread/INFO]: <Eclairyu3342> ye la..
+2022-05-22 [09:57:23.681] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-22 [09:57:30.067] [Server thread/INFO]: [Eclairyu3342: Set the time to 23000]
+2022-05-22 [09:57:55.912] [Server thread/INFO]: <VncenzoX> xnmpak hanut
+2022-05-22 [09:58:07.804] [Server thread/INFO]: <Eclairyu3342> kau pkai potion
+2022-05-22 [09:58:12.471] [Server thread/INFO]: <Eclairyu3342> nigh potion
+2022-05-22 [09:59:41.552] [Server thread/INFO]: <VncenzoX> padu giler
+2022-05-22 [10:00:14.000] [Server thread/INFO]: <Eclairyu3342> ape yg padu..?
+2022-05-22 [10:00:22.801] [Server thread/INFO]: <VncenzoX> potion
+2022-05-22 [10:03:42.801] [Server thread/INFO]: <Eclairyu3342> cerah ckit..
+2022-05-22 [10:03:45.336] [Server thread/INFO]: <Eclairyu3342> huh
+2022-05-22 [10:04:25.816] [Server thread/INFO]: <Eclairyu3342> kerja hanat...
+2022-05-22 [10:05:20.165] [Server thread/INFO]: <Eclairyu3342> oi..mabuk kaaa..
+2022-05-22 [10:09:26.115] [Server thread/INFO]: <VncenzoX> adjust yg bengkok tu
+2022-05-22 [10:16:26.651] [Server thread/INFO]: [Eclairyu3342: Set the time to 1000]
+2022-05-22 [10:17:04.117] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-22 [10:17:04.126] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to timeout
+2022-05-22 [10:17:21.126] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49578] Session opened
+2022-05-22 [10:17:21.382] [Server thread/INFO]: [NetworkSession: 127.56.211.185 49578] Player: Eclairyu3342
+2022-05-22 [10:17:22.166] [Server thread/INFO]: Eclairyu3342[/127.56.211.185:49578] logged in with entity id 537 at (world, 100.2835, 142.8304, 205.8647)
+2022-05-22 [10:17:34.432] [Server thread/INFO]: Eclairyu3342 joined the game
+2022-05-22 [10:18:41.896] [Server thread/INFO]: <VncenzoX> aku nak buat something sat
+2022-05-22 [10:19:05.982] [Server thread/INFO]: <Eclairyu3342> something is wrong..?
+2022-05-22 [10:19:29.516] [Server thread/INFO]: <VncenzoX> something is not working
+2022-05-22 [10:31:35.315] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [10:31:35.322] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [10:32:02.833] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48969] Session opened
+2022-05-22 [10:32:02.920] [Server thread/INFO]: [NetworkSession: 127.85.178.89 48969] Player: VncenzoX
+2022-05-22 [10:32:03.713] [Server thread/INFO]: VncenzoX[/127.85.178.89:48969] logged in with entity id 568 at (world, 88.9078, 74.0625, 297.3129)
+2022-05-22 [10:32:13.852] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [10:33:24.633] [Server thread/INFO]: [VncenzoX: Teleported Eclairyu3342 to VncenzoX]
+2022-05-22 [10:33:39.059] [Server thread/INFO]: Eclairyu3342 left the game
+2022-05-22 [10:33:39.070] [Server thread/INFO]: [NetworkSession: Eclairyu3342] Session closed due to client disconnect
+2022-05-22 [10:37:09.363] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [10:37:09.380] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [11:12:57.086] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49029] Session opened
+2022-05-22 [11:12:57.225] [Server thread/INFO]: [NetworkSession: 127.85.178.89 49029] Player: VncenzoX
+2022-05-22 [11:12:58.045] [Server thread/INFO]: VncenzoX[/127.85.178.89:49029] logged in with entity id 571 at (world, 125.9171, 64, 310.6948)
+2022-05-22 [11:13:08.378] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [11:13:31.521] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [11:13:31.537] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [11:27:04.782] [Server thread/INFO]: Received signal interrupt, stopping the server
+2022-05-22 [11:27:04.789] [Server thread/INFO]: Disabling BlockPets v2.0.1
+2022-05-22 [11:27:04.792] [Server thread/INFO]: Disabling SimpleLay v3.0.1
+2022-05-22 [11:27:04.793] [Server thread/INFO]: Disabling SimpleNPC v3.0.1
+2022-05-22 [11:27:04.795] [Server thread/INFO]: Unloading world "world"
+2022-05-22 [11:27:04.906] [Server thread/INFO]: Stopping other threads
+2022-05-22 [11:36:04.061] [Server thread/INFO]: Loading server configuration
+2022-05-22 [11:36:04.122] [Server thread/INFO]: Selected English (eng) as the base language
+2022-05-22 [11:36:04.130] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.30
+2022-05-22 [11:36:04.137] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2022-05-22 [11:36:04.178] [Server thread/INFO]: This server is running PocketMine-MP version 4.3.3
+2022-05-22 [11:36:04.178] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2022-05-22 [11:36:04.782] [Server thread/INFO]: Loading resource packs...
+2022-05-22 [11:36:04.841] [Server thread/INFO]: Loading CustomItemLoader v2.3.4
+2022-05-22 [11:36:04.850] [Server thread/INFO]: Loading Mobs v1.1.0
+2022-05-22 [11:36:04.854] [Server thread/INFO]: Loading SimpleLay v3.0.1
+2022-05-22 [11:36:04.858] [Server thread/INFO]: Loading SimpleNPC v3.0.1
+2022-05-22 [11:36:04.861] [Server thread/INFO]: Loading BlockPets v2.0.1
+2022-05-22 [11:36:04.866] [Server thread/INFO]: Loading InvCraft v0.2.4
+2022-05-22 [11:36:05.049] [Server thread/INFO]: Preparing world "world"
+2022-05-22 [11:36:05.108] [Server thread/INFO]: Enabling CustomItemLoader v2.3.4
+2022-05-22 [11:36:05.147] [Server thread/INFO]: Enabling Mobs v1.1.0
+2022-05-22 [11:36:05.227] [Server thread/INFO]: Enabling SimpleLay v3.0.1
+2022-05-22 [11:36:05.237] [Server thread/INFO]: Enabling SimpleNPC v3.0.1
+2022-05-22 [11:36:05.263] [Server thread/INFO]: Enabling BlockPets v2.0.1
+2022-05-22 [11:36:05.368] [Server thread/INFO]: Enabling InvCraft v0.2.4
+2022-05-22 [11:36:05.442] [Server thread/INFO]: Minecraft network interface running on 127.0.0.1:19132
+2022-05-22 [11:36:05.443] [Server thread/INFO]: GS4 Query listener running on 127.0.0.1:19132
+2022-05-22 [11:36:05.472] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2022-05-22 [11:36:05.472] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2022-05-22 [11:36:05.474] [Server thread/INFO]: Default game type: Creative Mode
+2022-05-22 [11:36:05.474] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2022-05-22 [11:36:05.474] [Server thread/INFO]: Done (1.415s)! For help, type "help" or "?"
+2022-05-22 [11:36:39.326] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57054] Session opened
+2022-05-22 [11:36:39.371] [Server thread/INFO]: [NetworkSession: 127.85.178.89 57054] Player: VncenzoX
+2022-05-22 [11:36:40.151] [Server thread/INFO]: VncenzoX[/127.85.178.89:57054] logged in with entity id 1 at (world, 131.207, 70.1753, 314.3845)
+2022-05-22 [11:36:49.559] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [11:39:36.757] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [11:39:36.767] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [11:41:28.967] [Server thread/INFO]: Received signal interrupt, stopping the server
+2022-05-22 [11:41:28.977] [Server thread/INFO]: Disabling CustomItemLoader v2.3.4
+2022-05-22 [11:41:28.980] [Server thread/INFO]: Disabling Mobs v1.1.0
+2022-05-22 [11:41:28.982] [Server thread/INFO]: Disabling SimpleLay v3.0.1
+2022-05-22 [11:41:28.984] [Server thread/INFO]: Disabling SimpleNPC v3.0.1
+2022-05-22 [11:41:28.985] [Server thread/INFO]: Disabling BlockPets v2.0.1
+2022-05-22 [11:41:28.985] [Server thread/INFO]: Disabling InvCraft v0.2.4
+2022-05-22 [11:41:28.989] [Server thread/INFO]: Unloading world "world"
+2022-05-22 [11:41:29.094] [Server thread/INFO]: Stopping other threads
+2022-05-22 [11:43:58.376] [Server thread/INFO]: Loading server configuration
+2022-05-22 [11:43:58.437] [Server thread/INFO]: Selected English (eng) as the base language
+2022-05-22 [11:43:58.444] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.30
+2022-05-22 [11:43:58.452] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2022-05-22 [11:43:58.493] [Server thread/INFO]: This server is running PocketMine-MP version 4.3.3
+2022-05-22 [11:43:58.493] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2022-05-22 [11:43:59.103] [Server thread/INFO]: Loading resource packs...
+2022-05-22 [11:43:59.162] [Server thread/INFO]: Loading InvCraft v0.2.4
+2022-05-22 [11:43:59.170] [Server thread/INFO]: Loading SimpleLay v3.0.1
+2022-05-22 [11:43:59.177] [Server thread/INFO]: Loading Mobs v1.1.0
+2022-05-22 [11:43:59.179] [Server thread/INFO]: Loading SimpleNPC v3.0.1
+2022-05-22 [11:43:59.182] [Server thread/INFO]: Loading CustomItemLoader v2.3.4
+2022-05-22 [11:43:59.184] [Server thread/INFO]: Loading BlockPets v2.0.1
+2022-05-22 [11:43:59.242] [Server thread/INFO]: Preparing world "world"
+2022-05-22 [11:43:59.301] [Server thread/INFO]: Enabling InvCraft v0.2.4
+2022-05-22 [11:43:59.327] [Server thread/INFO]: Enabling SimpleLay v3.0.1
+2022-05-22 [11:43:59.392] [Server thread/INFO]: Enabling Mobs v1.1.0
+2022-05-22 [11:43:59.421] [Server thread/INFO]: Enabling SimpleNPC v3.0.1
+2022-05-22 [11:43:59.447] [Server thread/INFO]: Enabling CustomItemLoader v2.3.4
+2022-05-22 [11:43:59.475] [Server thread/INFO]: Enabling BlockPets v2.0.1
+2022-05-22 [11:43:59.634] [Server thread/INFO]: Minecraft network interface running on 127.0.0.1:19132
+2022-05-22 [11:43:59.634] [Server thread/INFO]: GS4 Query listener running on 127.0.0.1:19132
+2022-05-22 [11:43:59.663] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2022-05-22 [11:43:59.663] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2022-05-22 [11:43:59.665] [Server thread/INFO]: Default game type: Creative Mode
+2022-05-22 [11:43:59.665] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2022-05-22 [11:43:59.666] [Server thread/INFO]: Done (1.292s)! For help, type "help" or "?"
+2022-05-22 [11:44:19.423] [Server thread/INFO]: [NetworkSession: 127.85.178.89 43720] Session opened
+2022-05-22 [11:44:19.467] [Server thread/INFO]: [NetworkSession: 127.85.178.89 43720] Player: VncenzoX
+2022-05-22 [11:44:20.237] [Server thread/INFO]: VncenzoX[/127.85.178.89:43720] logged in with entity id 1 at (world, 129.7807, 75.9974, 306.2372)
+2022-05-22 [11:44:29.547] [Server thread/INFO]: VncenzoX joined the game
+2022-05-22 [12:27:48.821] [Server thread/INFO]: [NetworkSession: 127.39.195.162 46177] Session opened
+2022-05-22 [12:27:49.200] [Server thread/INFO]: [NetworkSession: 127.39.195.162 46177] Player: HanaLily93
+2022-05-22 [12:27:50.461] [Server thread/INFO]: HanaLily93[/127.39.195.162:46177] logged in with entity id 457 at (world, 135.6308, 69.123, 307.9345)
+2022-05-22 [12:28:08.673] [Server thread/INFO]: HanaLily93 joined the game
+2022-05-22 [12:37:10.423] [Server thread/INFO]: [VncenzoX: Set the time to 1000]
+2022-05-22 [12:38:50.464] [Server thread/INFO]: [VncenzoX: Teleported HanaLily93 to VncenzoX]
+2022-05-22 [12:40:45.105] [Server thread/INFO]: VncenzoX left the game
+2022-05-22 [12:40:45.112] [Server thread/INFO]: [NetworkSession: VncenzoX] Session closed due to client disconnect
+2022-05-22 [12:40:48.360] [Server thread/INFO]: HanaLily93 left the game
+2022-05-22 [12:40:48.366] [Server thread/INFO]: [NetworkSession: HanaLily93] Session closed due to client disconnect
+2022-05-22 [14:29:25.985] [Server thread/INFO]: Received signal interrupt, stopping the server
+2022-05-22 [14:29:25.992] [Server thread/INFO]: Disabling InvCraft v0.2.4
+2022-05-22 [14:29:25.995] [Server thread/INFO]: Disabling SimpleLay v3.0.1
+2022-05-22 [14:29:25.996] [Server thread/INFO]: Disabling Mobs v1.1.0
+2022-05-22 [14:29:25.997] [Server thread/INFO]: Disabling SimpleNPC v3.0.1
+2022-05-22 [14:29:25.998] [Server thread/INFO]: Disabling CustomItemLoader v2.3.4
+2022-05-22 [14:29:25.999] [Server thread/INFO]: Disabling BlockPets v2.0.1
+2022-05-22 [14:29:26.001] [Server thread/INFO]: Unloading world "world"
+2022-05-22 [14:29:26.082] [Server thread/INFO]: Stopping other threads
